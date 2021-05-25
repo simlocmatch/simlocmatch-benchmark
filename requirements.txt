@@ -1,0 +1,10 @@
+#################################################
+# Requirements for simlocmatch		        #
+# install with `pip install -r requirements.txt #
+#################################################
+
+coloredlogs
+flammkuchen
+tqdm
+opencv-python
+dotmap
