@@ -64,9 +64,17 @@ Visit [simlocmatch.com](https://simlocmatch.com), and submit the resulting `.h5`
 Please note that upload might take some time due to the size of the results file (~5mins).
 
 
+### CVPR 2021 Winning Methods
+For the CVPR 2021 version of the challenge, we will use a combination of results w.r.t the following metrics:
+
+- number of inliers
+- matching success rate score
+- number of matches found in negative pairs
+
+A method has to score high in all 3 areas in order to achieve a high rank overall.  
+Details about the exact computation of the final ranking will be revealed closer to the challenge deadline. 
 
 ### Problems/Bugs/Evaluation Mishaps
-
 
 Please note that [simlocmatch.com](https://simlocmatch.com) is in beta. 
 For any issues, contact [info@simlocmatch.com](mailto:info@simlocmatch.com)
