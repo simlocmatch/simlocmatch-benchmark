@@ -9,6 +9,8 @@ evaluation of matching methods, something that was a significant
 drawback of benchmarks and datasets based on real data and SfM
 pipelines for building pseudo ground truth. 
 
+![Screenshot](imgs/banner.png)
+
 
 ### Downloading and setting up the data
 
@@ -67,4 +69,4 @@ Please note that upload might take some time due to the size of the results file
 
 
 Please note that [simlocmatch.com](https://simlocmatch.com) is in beta. 
-For any issues, contact [mailto:info@simlocmatch.com](info@simlocmatch.com)
+For any issues, contact [info@simlocmatch.com](mailto:info@simlocmatch.com)
