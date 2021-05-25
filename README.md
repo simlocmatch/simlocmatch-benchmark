@@ -9,7 +9,7 @@ evaluation of matching methods, something that was a significant
 drawback of benchmarks and datasets based on real data and SfM
 pipelines for building pseudo ground truth. 
 
-![Screenshot](imgs/banner.png)
+![banner](./imgs/banner.jpg)
 
 
 ### Downloading and setting up the data
