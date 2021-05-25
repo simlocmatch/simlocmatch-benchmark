@@ -67,9 +67,9 @@ Please note that upload might take some time due to the size of the results file
 ### CVPR 2021 Winning Methods
 For the CVPR 2021 version of the challenge, we will use a combination of results w.r.t the following metrics:
 
-- number of inliers
-- matching success rate score
-- number of matches found in negative pairs
+- number of inliers (higher is better)
+- matching success rate score (higher is better)
+- number of matches found in negative pairs (cases with >0 will be penalized)
 
 A method has to score high in all 3 areas in order to achieve a high rank overall.  
 Details about the exact computation of the final ranking will be revealed closer to the challenge deadline. 
