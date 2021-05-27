@@ -35,7 +35,7 @@ params:
   my_first_param: "hello"
   learning_rate: 0.001
   etc: "etc.."
-'''
+''')
 
 config = DotMap(config)
 import os
