@@ -30,6 +30,13 @@ To run the orb baseline:
 python3 compute_matching.py --method orb --benchmark-version cvpr2021-v1
 ```
 
+To run the kornia baseline:
+```sh
+python3 compute_matching.py --method korniaadalam --benchmark-version cvpr2021-v1
+```
+
+This would require GPU and 32 Gb RAM, because all the descriptors are kept in memory for now. 
+
 To run your method named `X`:
 Create a `methods/X.py` file, replicating the methods from the sample ORB baseline.
 Fill this file with the code required to run your method on the image pairs. 
